@@ -1,0 +1,10 @@
+
+Q1)Create a sample spring boot application and configure H2 in memory database dependency.
+
+Q2)Confgure few properties under application properties file and read there value under Main class.
+
+Q3)Create a Employee table (id, name, designation) under H2 database and inserts few sample records under that table at startup.
+
+Q4)Enable actuator services and play around few endpoints it exposes.
+
+Q5)Enable devtools and play around by making changes.
