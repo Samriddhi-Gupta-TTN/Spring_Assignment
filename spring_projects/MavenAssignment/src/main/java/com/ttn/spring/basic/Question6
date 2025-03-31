@@ -1,4 +1,0 @@
-samriddhi@TTNPL-samriddhigupta:~/spring_projects/MavenAssignment$ java -jar ./multimodule1/target/multimodule1-1.0-SNAPSHOT.jar
-Hello from multimodule1
-samriddhi@TTNPL-samriddhigupta:~/spring_projects/MavenAssignment$ java -jar ./multimodule2/target/multimodule2-1.0-SNAPSHOT.jar
-Hello from multimodule2
